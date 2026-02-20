@@ -49,7 +49,7 @@ This will display the help for the tool
 |_____|__,|_  |___|__,|___|_,_|___|_|_|___|_| |___|
           |___|
 
-v0.1.1 - https://github.com/thelicato/waybackshots
+v0.2.0 - https://github.com/thelicato/waybackshots
 
 Get screenshots of URLs stored in the Wayback Machine in a smart way
 
