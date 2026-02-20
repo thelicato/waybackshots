@@ -1,4 +1,4 @@
-module github.com/groundsec/waybackshots
+module github.com/thelicato/waybackshots
 
 go 1.21.5
 

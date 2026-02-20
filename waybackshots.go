@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/groundsec/waybackshots/cmd"
-	"github.com/groundsec/waybackshots/pkg/utils"
+	"github.com/thelicato/waybackshots/cmd"
+	"github.com/thelicato/waybackshots/pkg/utils"
 )
 
 var version = "0.1.1"

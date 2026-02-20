@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"github.com/chromedp/chromedp"
-	"github.com/groundsec/waybackshots/pkg/logger"
-	"github.com/groundsec/waybackshots/pkg/utils"
+	"github.com/thelicato/waybackshots/pkg/logger"
+	"github.com/thelicato/waybackshots/pkg/utils"
 )
 
 type WaybackMachineJSON [][]string

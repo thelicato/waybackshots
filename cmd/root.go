@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/groundsec/waybackshots/pkg/logger"
-	"github.com/groundsec/waybackshots/pkg/screenshot"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
+	"github.com/thelicato/waybackshots/pkg/logger"
+	"github.com/thelicato/waybackshots/pkg/screenshot"
 )
 
 func completionCmd() *cobra.Command {

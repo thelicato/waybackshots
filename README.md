@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://github.com/groundsec/waybackshots/blob/main/docs/logo.png?raw=true" width="400">
+	<img src="https://github.com/thelicato/waybackshots/blob/main/docs/logo.png?raw=true" width="400">
 </h1>
 
 <h4 align="center">Get screenshots of URLs stored in the Wayback Machine in a smart way</h4>
@@ -49,7 +49,7 @@ This will display the help for the tool
 |_____|__,|_  |___|__,|___|_,_|___|_|_|___|_| |___|
           |___|
 
-v0.1.1 - https://github.com/groundsec/waybackshots
+v0.1.1 - https://github.com/thelicato/waybackshots
 
 Get screenshots of URLs stored in the Wayback Machine in a smart way
 
@@ -69,9 +69,9 @@ Flags:
 Run the following command to install the latest version:
 
 ```
-go install github.com/groundsec/waybackshots@latest
+go install github.com/thelicato/waybackshots@latest
 ```
 
 ## 🪪 License
 
-_waybackshots_ is made with 🖤 by the [GroundSec](https://groundsec.io) team and released under the [MIT LICENSE](https://github.com/groundsec/waybackshots/blob/main/LICENSE).
+_waybackshots_ is made with 🖤 and released under the [MIT LICENSE](https://github.com/thelicato/waybackshots/blob/main/LICENSE).

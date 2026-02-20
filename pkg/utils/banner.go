@@ -10,7 +10,7 @@ func Banner(version string) {
 |_____|__,|_  |___|__,|___|_,_|___|_|_|___|_| |___|
           |___|                                    
 
-v%s - https://github.com/groundsec/waybackshots
+v%s - https://github.com/thelicato/waybackshots
 
 `
 	fmt.Printf(banner, version)
